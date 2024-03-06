@@ -1,7 +1,5 @@
 # sql-challenge
 
-Abraham gave me an extension
-
 List the employee number, last name, first name, sex, and salary of each employee.
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
